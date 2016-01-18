@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\bin\Debug\CookieVirus.exe
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\bin\Debug\CookieVirus.pdb
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\obj\x86\Debug\CookieVirus.CookieVirus.resources
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\obj\x86\Debug\CookieVirus.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\obj\x86\Debug\CookieVirus.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\obj\x86\Debug\CookieVirus.exe
+C:\Users\Administrator\Desktop\CookieVirus\CookieVirus\obj\x86\Debug\CookieVirus.pdb
